@@ -1,4 +1,4 @@
-## Unreleased
+## v1.0.0
 
 Les documents introduction et History on était modifié pour indiqué qui s'en est charger.
 
